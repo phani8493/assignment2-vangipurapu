@@ -17,3 +17,17 @@ FOOD ITEMS I RECOMMEND FROM LEICESTER
 * MASALA DOSA
 
 link to [ABOUTME.MD](https://github.com/phani8493/assignment2-vangipurapu/blob/main/ABOUTME.MD)
+
+---
+
+# TABLES
+
+The following table explains the sports details
+
+| sport/activity | Location | Equipment Fee|
+| --- | --- | ---: |
+| Kabaddi | Maryville | 100 |
+| Cricket | Kansas | 200 |
+| Soccer | St Lous | 150 |
+| Shooting | NewYork | 200 |
+
