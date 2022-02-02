@@ -36,4 +36,5 @@ The following table explains the sports details
 # Pithy Quotes
 
 > “Resolutely train yourself to attain peace.” By *Goutham Buddha*
+
 > “Get busy living or get busy dying.” — *Stephen King*
