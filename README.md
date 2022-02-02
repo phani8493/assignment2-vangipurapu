@@ -31,3 +31,9 @@ The following table explains the sports details
 | Soccer | St Lous | 150 |
 | Shooting | NewYork | 200 |
 
+---
+
+# Pithy Quotes
+
+> “Resolutely train yourself to attain peace.” By *Goutham Buddha*
+> “Get busy living or get busy dying.” — *Stephen King*
